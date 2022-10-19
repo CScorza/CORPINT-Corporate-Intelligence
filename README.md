@@ -1,4 +1,8 @@
 # CORPINT - Corporate / Business Intelligence
+
+![MRKETING](https://user-images.githubusercontent.com/98583912/196754310-152ea816-a2dd-4290-a265-81c9de1e9cb4.jpg)
+
+
 ```
 E' il processo e le pratiche lungimiranti utilizzate per produrre conoscenza 
 sull'ambiente competitivo per migliorare le prestazioni organizzative. 
@@ -13,12 +17,50 @@ concorrenti e qualsiasi aspetto dell'ambiente necessario per supportare dirigent
 - [Wallmine](https://pl.wallmine.com/)
 - [Investing](https://it.investing.com/)
 - [Il Sole 24 ore](https://www.ilsole24ore.com/)
+
+## Business Sanction 
 - [Sanctions-intelligence.com](https://www.sanctions-intelligence.com/about/)
+- [OpenSanctions](https://www.opensanctions.org/)
+
+# Indagini Patrimoniali
+```](
+Le indagini patrimoniale consistono in attività di ricerca e 
+analisi di dari volte a far emergere in capo ai soggetti indagati la presenza di beni mobili e immboli,
+redditi e flussi di entrata di capitale o altre utilità
+```
+# Italia
+## [Camere del Commercio](https://www.camcom.gov.it/)
+```
+Tramite la camera del commercio è possibile ricavare
+- Visura ordinaria/storica
+- Pignoramenti/sequestri/custodia quota
+- Bilanci d'esercizio
+- Atti depositati
+- Scheda persona partecipazioni
+- Scheda persona cariche
+- Protesti
+```
+
+![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
+## [Agenzia dell'Entrate](https://www.agenziaentrate.gov.it/portale/)
+Attraverso il sito è possibile verificare
+- [Verifica Codice Fiscale](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)
+- [Verifica della partita Iva](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-della-partita-iva)
+- [Controllo delle partite Iva comunitarie](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-delle-partite-iva-comunitarie)
+- [Controllo Contrassegni telematici](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-contrassegni-telematici)
+- [Ricerca del codice identificativo dei contratti di locazione](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-del-codice-identificativo-dei-contratti-di-locazione)
+- [Ricerca professionisti abilitati all'apposizione del visto di conformità](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-professionisti-abilitati-all-apposizione-del-visto-di-conformit%C3%A0)
+- [Verifica dei documenti con "glifo" inviati dall'Agenzia](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-documenti-glifo-da-agenzia)
+- [Verifica dei documenti con firma digitale inviati dall'Agenzia](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-della-firma-digitale-da-agenzia)
+- [Verifica dichiarazione nautica](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-dichiarazione-nautica)
+- [Verifica ricevuta dichiarazione di intento](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-ricevuta-dichiarazione-di-intento)
+
+
 
 ## Trova indirizzi email di aziende e persone
 - [Skymem - Find email addresses of companies and people](http://www.skymem.info/)
 
-## DataBase Giornalismo Investigativo
+## Aggregatori di Company Register
 - [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 - [Open Corporates](https://opencorporates.com/)
 - [Find public records and leaks - OCCRP Aleph](https://data.occrp.org/)
