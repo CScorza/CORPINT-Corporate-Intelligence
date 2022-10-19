@@ -91,7 +91,6 @@ Attraverso il sito è possibile verificare
 - [Corporate Information](http://www.corporateinformation.com/)
 - [CrunchBase](https://www.crunchbase.com/)
 - [Ezilon](http://www.ezilon.com/)
-- [Orbis Directory - Informazioni Aziendali](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 - [Monitoraggio Aziende](https://www.owler.com/)
 - [Serpstat](https://serpstat.com/)
 - [SpyFu](http://www.spyfu.com/)
