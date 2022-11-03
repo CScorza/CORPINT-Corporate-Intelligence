@@ -92,7 +92,7 @@ Tramite la camera del commercio è possibile ricavare
 
 
 ## Internazionali
-|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|
+|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|[opencorporates](https://opencorporates.com/)|
 | :---: | :---: | :---: |
 |[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|
 |[SpyFu](http://www.spyfu.com/)|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|
