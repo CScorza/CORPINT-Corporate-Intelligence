@@ -113,10 +113,9 @@ Tramite la camera del commercio è possibile ricavare
 
 ## Whistleblowing
 ```
-Con il termine whistleblower si intende il dipendente pubblico 
+Con il termine whistleblower si intende il dipendente "X" 
 che segnala illeciti di interesse generale e non di interesse individuale, 
 di cui sia venuto a conoscenza in ragione del rapporto di lavoro, 
-in base a quanto previsto dall'art. 54 bis del d. lgs.
 ```
 - [ANAC - Agenzia Nazionale AntiCorruzione ](https://www.anticorruzione.it/-/whistleblowing)
 - [Globaleaks.org](https://www.globaleaks.org/)
