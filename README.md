@@ -67,8 +67,8 @@ Tramite la camera del commercio è possibile ricavare
 - [Skymem - Find email addresses of companies and people](http://www.skymem.info/)
 
 ## Aggregatori di Company Register
-|[National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)|[Open Corporates](https://opencorporates.com/)|[Find public records and leaks - OCCRP Aleph](https://data.occrp.org/)|[Off Shore lLeaks](https://offshoreleaks.icij.org/)|
-| :---: | :---: | :---: | :---: |
+|[National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)|[Find public records and leaks - OCCRP Aleph](https://data.occrp.org/)|[Off Shore lLeaks](https://offshoreleaks.icij.org/)|
+| :---: | :---: | :---: |
 
 # Estero
 
@@ -92,11 +92,11 @@ Tramite la camera del commercio è possibile ricavare
 
 
 ## Internazionali
-|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|[opencorporates](https://opencorporates.com/)|
-| :---: | :---: | :---: |
-|[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|
-|[SpyFu](http://www.spyfu.com/)|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|
-|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|[infobel - Ricerca tramite numero di telefono](https://www.infobel.com/fr/world)|
+|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|[OpenCorporates](https://opencorporates.com/)|
+| :---: | :---: | :---: | :---: |
+|[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|[SpyFu](http://www.spyfu.com/)|
+|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|
+|[infobel - Ricerca tramite numero di telefono](https://www.infobel.com/fr/world)||||
 
 ## USA
 
