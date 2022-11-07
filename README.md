@@ -96,8 +96,8 @@ Tramite la camera del commercio è possibile ricavare
 |[Netronline](https://www.netronline.com/public_records.htm)|[World Bank Open Data](https://data.worldbank.org/)|[Search Systems.net](https://publicrecords.searchsystems.net/)|
 |[Data World](https://data.world/)|[Enigma](https://enigma.com/)|[ICIJ - OFFSHORE LEAKS DATABASE](https://offshoreleaks.icij.org/)|[infobel - Ricerca tramite numero di telefono](https://www.infobel.com/fr/world)|[Data Portals](http://dataportals.org/)|
 |[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|
-|[OpenCorporates](https://opencorporates.com/)|[SpyFu](http://www.spyfu.com/)|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|
-|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)||
+|[OpenCorporates](https://opencorporates.com/)|[GitHub - Nephylem/OpenCorporates](https://github.com/Nephylem/OpenCorporates)|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|
+|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|[SpyFu](http://www.spyfu.com/)|
 
 
 
