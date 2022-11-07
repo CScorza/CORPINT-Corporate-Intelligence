@@ -3,9 +3,10 @@
 
 ||[Analisi di Mercato Live](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#analisi-di-mercato-live)
 | :---: | :--- |
-||[Indagini Patrimoniali](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#indagini-patrimoniali)
-|INDICE|[Italia](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#italia)
-||[Estero](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#estero)
+||[Indagini Patrimoniali](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#indagini-patrimoniali)|
+|INDICE|[Italia](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#italia)|
+||[Europa](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#europa)|
+||[Estero](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#estero)|
 ||[Strumenti utili](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#strumenti-utili)|
 
 
@@ -35,7 +36,7 @@ dirigenti e manager nel processo decisionale strategico per un'organizzazione.
 | :---: | :---: |
 
 # Indagini Patrimoniali
-```](
+```
 Le indagini patrimoniale consistono in attività di ricerca e 
 analisi di dari volte a far emergere in capo ai soggetti indagati la presenza di beni mobili e immboli,
 redditi e flussi di entrata di capitale o altre utilità
@@ -63,14 +64,9 @@ Tramite la camera del commercio è possibile ricavare
 
 ![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 
-## Trova indirizzi email di aziende e persone
-- [Skymem - Find email addresses of companies and people](http://www.skymem.info/)
-
-## Aggregatori di Company Register
-|[National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)|[Find public records and leaks - OCCRP Aleph](https://data.occrp.org/)|[Off Shore lLeaks](https://offshoreleaks.icij.org/)|
-| :---: | :---: | :---: |
-
-# Estero
+## Trova indirizzi email di aziende e professionisti
+|[Skymem - Find email addresses of companies and people](http://www.skymem.info/)|[Kununu](https://www.kununu.com/)|[RocketReach](https://rocketreach.co/)|[Apollo.io](https://www.apollo.io/)|
+| :---: | :---: | :---: | :---: |
 
 ## Europa
 |![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[Europages](http://www.europages.co.uk/)|[E-Justice - businessregisters in member states](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
@@ -89,20 +85,27 @@ Tramite la camera del commercio è possibile ricavare
 ## Svizzera
 |![Svizzera](https://user-images.githubusercontent.com/98583912/199543300-2f70e288-6fcc-43c4-bc98-2cca25c280d9.gif)|[Registro di Commercio del Canton Ticino](https://ti.chregister.ch/cr-portal/suche/suche.xhtml)|[Switzerland - Business information and company addresses](https://business-monitor.ch/en)|
 | :---: | :---: | :---: |
+|[Business Monitor](https://business-monitor.ch/)|[Money House](https://moneyhouse.ch/)||
 
 
-## Internazionali
-|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|[OpenCorporates](https://opencorporates.com/)|
-| :---: | :---: | :---: | :---: |
-|[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|[SpyFu](http://www.spyfu.com/)|
-|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|
-|[infobel - Ricerca tramite numero di telefono](https://www.infobel.com/fr/world)||||
+# Estero
+## Registri Pubblici Internazionali
+|![Mondo](https://user-images.githubusercontent.com/98583912/199543480-c53d28dc-f1a9-476c-b989-d1122d41c2ec.gif)|[Corporation Wiki - Anagrafica Aziende](https://www.corporationwiki.com/)|[Corporate Information](http://www.corporateinformation.com/)|
+| :---: | :---: | :---: |
+|[National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)|[Find public records and leaks - OCCRP Aleph](https://data.occrp.org/)|[Off Shore lLeaks](https://offshoreleaks.icij.org/)|
+|[Netronline](https://www.netronline.com/public_records.htm)|[World Bank Open Data](https://data.worldbank.org/)|[Search Systems.net](https://publicrecords.searchsystems.net/)|
+|[Data World](https://data.world/)|[Enigma](https://enigma.com/)|[ICIJ - OFFSHORE LEAKS DATABASE](https://offshoreleaks.icij.org/)|[infobel - Ricerca tramite numero di telefono](https://www.infobel.com/fr/world)|[Data Portals](http://dataportals.org/)|
+|[CrunchBase](https://www.crunchbase.com/)|[Ezilon](http://www.ezilon.com/)|[Monitoraggio Aziende](https://www.owler.com/)|
+|[OpenCorporates](https://opencorporates.com/)|[SpyFu](http://www.spyfu.com/)|[Accuranker](https://www.accuranker.com/)|[Serpstat](https://serpstat.com/)|
+|[Relationship Science Database](https://relationshipscience.com/)|[Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)||
+
+
+
 
 ## USA
-
 |![USA](https://user-images.githubusercontent.com/98583912/199543550-4b378fba-38ef-494e-8bb5-a388df545029.gif)|[Elenco ISP - Per notifiche giudiziarie](https://www.search.org/resources/isp-list/)|[Dati No-Profit più completi e aggiornati](http://www.guidestar.org/)|
 | :---: | :---: | :---: |
-|[Analisi Mercato USA](https://www.financecharts.com/)|[corporationwiki](https://www.corporationwiki.com/companies/)||
+|[Analisi Mercato USA](https://www.financecharts.com/)|[corporationwiki](https://www.corporationwiki.com/companies/)|[GitHu - USA Opendata](https://github.com/sunlightpolicy/opendata/blob/master/USlocalopendataportals.csv)|
 
 ## Canada
 |![Canada](https://user-images.githubusercontent.com/98583912/199543594-a50b57c1-226a-47d7-8cd9-1a061b02ca38.gif)|[Canadian Business Research](https://www.canada.ca/en/services/business/research.html)|
@@ -111,12 +114,12 @@ Tramite la camera del commercio è possibile ricavare
 
 # Strumenti utili
 
-## Whistleblowing
+## Whistleblowing - AntiCorruzione
 ```
 Con il termine whistleblower si intende il dipendente "X" 
 che segnala illeciti di interesse generale e non di interesse individuale, 
 di cui sia venuto a conoscenza in ragione del rapporto di lavoro, 
 ```
-- [ANAC - Agenzia Nazionale AntiCorruzione ](https://www.anticorruzione.it/-/whistleblowing)
-- [Globaleaks.org](https://www.globaleaks.org/)
-- [Github - leakScraper](https://github.com/Acceis/leakScraper/wiki/leakScraper)
+|[ANAC - Agenzia Nazionale AntiCorruzione ](https://www.anticorruzione.it/-/whistleblowing)|[Globaleaks.org](https://www.globaleaks.org/)|
+| :---: | :---: |
+|[Github - leakScraper](https://github.com/Acceis/leakScraper/wiki/leakScraper)|[Violation Tracker](https://violationtracker.goodjobsfirst.org/)|
