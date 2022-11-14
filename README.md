@@ -1,12 +1,12 @@
 ![Titolo](https://user-images.githubusercontent.com/98583912/199370645-c7413e35-f793-4537-81ed-cdb85ce02ead.gif)
 
-||[**ANALISI DEL MERCATO LIVE**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#analisi-di-mercato-live)
+||[**ANALISI DEL MERCATO LIVE**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#analisi-di-mercato-live)
 | :---: | :--- |
 ||[**INDAGINI PATRIMONIALI**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#indagini-patrimoniali)|
-|**INDICE**|[**ITALIA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#italia)|
-||[**EUROPA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#europa)|
-||[**ESTERO**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#estero)|
-||[**STRUMENTI UTILI** - *Anticorruzione*](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#strumenti-utili)|
+|**INDICE**|[**ITALIA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#italia)|
+||[**EUROPA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#europa)|
+||[**ESTERO**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#estero)|
+||[**STRUMENTI UTILI** - *Anticorruzione*](https://github.com/CScorza/CORPINT-Corporate-Intelligence#strumenti-utili)|
 
 ![Immagine1](https://user-images.githubusercontent.com/98583912/199541265-6a80c99a-f964-4626-9074-91a93e3e79b6.gif)
 ```
@@ -27,7 +27,7 @@ dirigenti e manager nel processo decisionale strategico per un'organizzazione.
 ![Immagine2](https://user-images.githubusercontent.com/98583912/199372706-5dac3d74-e8f1-41dd-bda0-66b180c95a52.gif)
 
 
-## Business Sanction
+**Business Sanction**
 
 |[**Sanctions-intelligence.com**](https://www.sanctions-intelligence.com/about/)|[**OpenSanctions**](https://www.opensanctions.org/)|
 | :---: | :---: |
@@ -38,11 +38,22 @@ Le indagini patrimoniale consistono in attività di ricerca e
 analisi di dari volte a far emergere in capo ai soggetti indagati la presenza di beni mobili e immboli,
 redditi e flussi di entrata di capitale o altre utilità
 ```
+
+**ALBO PROFESSIONALE**
+|**Architetti**|**Assistenti Sociali**|**Avvocati**|**Commercialisti ed esperti contabili**|**Farmacisti**|
+| :---: | :---: | :---: | :---: | :---: |
+|[**CNAPPC**](http://www.cnappc.it/default.aspx)|[**CNOAS**](https://www.cnoas.info/cgi-bin/cnoas/albo_nazionale.cgi)|[**Consiglio Nazionale Forense**](https://www.consiglionazionaleforense.it/ricerca-avvocati)|[**Commercialisti**](https://commercialisti.it/iscritti)|[**Farmacisti**](https://www.intranet-fofi.it/SitoFOFI/AlboUnicoNazionale.aspx)|
+|**Giornalisti**|**Infermieri**|**Ingegneri**|**Medici e dei chirurghi e degli Odontoiatri**|**Notaio**|
+|[**Ordine Dei Giornalisti**](https://www.odg.it/elenco-iscritti)|[**FNOPI**](https://www.fnopi.it/gli-ordini-provinciali/ricerca-albo/)|[**Consiglio Nazionale Ingegneri**](https://www.cni.it/albo-unico)|[**FNOMCeO**](https://portale.fnomceo.it/cerca-prof/)|[**Consiglio Nazionale del Notariato**](https://www.notariato.it/it/trova-notaio)|
+|**Periti assicurativi**|**Psicologi**|**Segretari Comunali**|
+|[**Ruolo Periti - consap.it**](http://ruoloperiti.consap.it/web/M/Ricerca)|[**Consiglio Nazionale dell'Ordine degli Psicologi**](https://areariservata.psy.it/cgi-bin/areariservata/albo_nazionale.cgi)|[**Albo Segretari Nazionali**](https://albosegretari.interno.gov.it/SearchSegretario)|
+
+
 # Italia
 ![Italia](https://user-images.githubusercontent.com/98583912/199543084-4f9fd457-bcc9-43ab-9b87-b2b1946725aa.gif)
 ## [Camere del Commercio](https://www.camcom.gov.it/)
 ```
-Tramite la camera del commercio è possibile ricavare
+Tramite la camera del commercio è possibile ricavare()
 - Visura ordinaria/storica
 - Pignoramenti/sequestri/custodia quota
 - Bilanci d'esercizio
@@ -52,7 +63,7 @@ Tramite la camera del commercio è possibile ricavare
 - Protesti
 ```
 
-## [Agenzia dell'Entrate](https://www.agenziaentrate.gov.it/portale/)
+[**Agenzia dell'Entrate**](https://www.agenziaentrate.gov.it/portale/)
 <p align="center">Attraverso il sito è possibile verificare</p>
 
 |[**Verifica Codice Fiscale**](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)|[**Verifica della partita Iva**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-della-partita-iva)|[**Controllo delle partite Iva comunitarie**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-delle-partite-iva-comunitarie)|[**Controllo Contrassegni telematici**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-contrassegni-telematici)|[**Ricerca del codice identificativo dei contratti di locazione**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-del-codice-identificativo-dei-contratti-di-locazione)|
@@ -61,7 +72,7 @@ Tramite la camera del commercio è possibile ricavare
 
 ![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 
-## Trova indirizzi email di aziende e professionisti
+**Trova indirizzi email di aziende e professionisti**
 |[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
 | :---: | :---: | :---: | :---: |
 
@@ -69,17 +80,17 @@ Tramite la camera del commercio è possibile ricavare
 |![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[**Europages**](http://www.europages.co.uk/)|[**E-Justice - businessregisters in member states**](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
 | :---: | :---: | :---: |
 
-## UK
+**UK**
 |![UK](https://user-images.githubusercontent.com/98583912/199543213-97e9ed5c-fb57-435e-8aca-e7e123f940ff.gif)|[**Company Check**](https://companycheck.co.uk/)|[**Registro dei servizi finanziari**](https://register.fca.org.uk/s/)|[**GOV.UK Ricerca nel Registro imprese**](https://find-and-update.company-information.service.gov.uk/)|
 | :---: | :---: | :---: | :---: |
 |[**Scoot Network**](http://www.scoot.co.uk/)|[**CEO email addresses for UK Companies**](https://www.ceoemail.com/)|[**Yell**](https://www.yell.com/)|[**GOV.UK Ricerca nel Registro imprese**](https://find-and-update.company-information.service.gov.uk/)|
 
 
-## Cypro
+**Cypro**
 |![CIPRO](https://user-images.githubusercontent.com/98583912/199543263-70f9ffb5-420a-49e7-b46a-2a454cbddf41.gif)|[**Pubblico Registro Cipriota**](https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?sc=0&lang=EN)|[**Indagini patrimoniali - Terreni**](https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer)|
 | :---: | :---: | :---: |
 
-## Svizzera
+**Svizzera**
 |![Svizzera](https://user-images.githubusercontent.com/98583912/199543300-2f70e288-6fcc-43c4-bc98-2cca25c280d9.gif)|[**Registro di Commercio del Canton Ticino**](https://ti.chregister.ch/cr-portal/suche/suche.xhtml)|[**Switzerland - Business information and company addresses**](https://business-monitor.ch/en)|
 | :---: | :---: | :---: |
 |[**Business Monitor**](https://business-monitor.ch/)|[**Money House**](https://moneyhouse.ch/)||
@@ -96,18 +107,18 @@ Tramite la camera del commercio è possibile ricavare
 |[**OpenCorporates**](https://opencorporates.com/)|[**GitHub - Nephylem/OpenCorporates**](https://github.com/Nephylem/OpenCorporates)|[**Accuranker**](https://www.accuranker.com/)|[**Serpstat**](https://serpstat.com/)|
 |[**Relationship Science Database**](https://relationshipscience.com/)|[**Overseas Company Registers**](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|[**SpyFu**](http://www.spyfu.com/)|
 
-## USA
+**USA**
 |![USA](https://user-images.githubusercontent.com/98583912/199543550-4b378fba-38ef-494e-8bb5-a388df545029.gif)|[**Elenco ISP - Per notifiche giudiziarie**](https://www.search.org/resources/isp-list/)|[**Dati No-Profit più completi e aggiornati**](http://www.guidestar.org/)|
 | :---: | :---: | :---: |
 |[**Analisi Mercato USA**](https://www.financecharts.com/)|[**Corporation Wiki**](https://www.corporationwiki.com/companies/)|[**GitHu - USA Opendata**](https://github.com/sunlightpolicy/opendata/blob/master/USlocalopendataportals.csv)|
 
-## Canada
+**Canada**
 |![Canada](https://user-images.githubusercontent.com/98583912/199543594-a50b57c1-226a-47d7-8cd9-1a061b02ca38.gif)|[**Canadian Business Research**](https://www.canada.ca/en/services/business/research.html)|
 | :---: | :---: |
 
 # Strumenti utili
 
-## Whistleblowing - AntiCorruzione
+**Whistleblowing - AntiCorruzione**
 ```
 Con il termine whistleblower si intende il dipendente "X" 
 che segnala illeciti di interesse generale e non di interesse individuale, 
@@ -116,3 +127,11 @@ di cui sia venuto a conoscenza in ragione del rapporto di lavoro,
 |[**ANAC - Agenzia Nazionale AntiCorruzione**](https://www.anticorruzione.it/-/whistleblowing)|[**Globaleaks.org**](https://www.globaleaks.org/)|
 | :---: | :---: |
 |[**Github - leakScraper**](https://github.com/Acceis/leakScraper/wiki/leakScraper)|[**Violation Tracker**](https://violationtracker.goodjobsfirst.org/)|
+
+**AntiTruffa**
+
+![marchio-IVASS-white-small](https://user-images.githubusercontent.com/98583912/201621700-4e779ac2-a992-4311-9f0e-b20251cbe947.png)
+|**IVASS - Istituto per la Vigilanza sulle Assicurazioni**|
+| :---: |
+|[**IVASS** - Comunicati e segnalazioni di siti e Polizze Contrafatti](https://www.ivass.it/media/comunicati/)|
+|[ELENCO AVVISI IMPRESE NON AUTORIZZATE O NON ABILITATE.pdf](https://github.com/CScorza/CORPINT-Corporate-Intelligence/files/10001461/ELENCO_AVVISI_IMPRESE_NON_AUTORIZZATE_O_NON_ABILITATE.pdf)|
