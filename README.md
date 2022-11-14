@@ -2,7 +2,7 @@
 
 ||[**ANALISI DEL MERCATO LIVE**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#analisi-di-mercato-live)
 | :---: | :--- |
-||[**INDAGINI PATRIMONIALI**](https://github.com/CScorza/CORPINT-Corporate-Intelligence/edit/main/README.md#indagini-patrimoniali)|
+||[**INDAGINI PATRIMONIALI**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#indagini-patrimoniali)|
 |**INDICE**|[**ITALIA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#italia)|
 ||[**EUROPA**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#europa)|
 ||[**ESTERO**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#estero)|
