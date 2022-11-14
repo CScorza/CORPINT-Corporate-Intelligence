@@ -135,3 +135,4 @@ di cui sia venuto a conoscenza in ragione del rapporto di lavoro,
 | :---: |
 |[**IVASS** - Comunicati e segnalazioni di siti e Polizze Contrafatti](https://www.ivass.it/media/comunicati/)|
 |[ELENCO AVVISI IMPRESE NON AUTORIZZATE O NON ABILITATE.pdf](https://github.com/CScorza/CORPINT-Corporate-Intelligence/files/10001461/ELENCO_AVVISI_IMPRESE_NON_AUTORIZZATE_O_NON_ABILITATE.pdf)|
+
