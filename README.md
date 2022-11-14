@@ -44,8 +44,8 @@ redditi e flussi di entrata di capitale o altre utilità
 |[**CNAPPC**](http://www.cnappc.it/default.aspx)|[**CNOAS**](https://www.cnoas.info/cgi-bin/cnoas/albo_nazionale.cgi)|[**Consiglio Nazionale Forense**](https://www.consiglionazionaleforense.it/ricerca-avvocati)|[**Commercialisti**](https://commercialisti.it/iscritti)|[**Farmacisti**](https://www.intranet-fofi.it/SitoFOFI/AlboUnicoNazionale.aspx)|
 |**Giornalisti**|**Infermieri**|**Ingegneri**|**Medici e dei chirurghi e degli Odontoiatri**|**Notaio**|
 |[**Ordine Dei Giornalisti**](https://www.odg.it/elenco-iscritti)|[**FNOPI**](https://www.fnopi.it/gli-ordini-provinciali/ricerca-albo/)|[**Consiglio Nazionale Ingegneri**](https://www.cni.it/albo-unico)|[**FNOMCeO**](https://portale.fnomceo.it/cerca-prof/)|[**Consiglio Nazionale del Notariato**](https://www.notariato.it/it/trova-notaio)|
-|**Periti assicurativi**|**Psicologi**|**Segretari Comunali**|
-|[**Ruolo Periti - consap.it**](http://ruoloperiti.consap.it/web/M/Ricerca)|[**Consiglio Nazionale dell'Ordine degli Psicologi**](https://areariservata.psy.it/cgi-bin/areariservata/albo_nazionale.cgi)|[**Albo Segretari Nazionali**](https://albosegretari.interno.gov.it/SearchSegretario)|
+|**Periti assicurativi**|**Psicologi**|**Segretari Comunali**|**AGENTI MEDIATORI**|
+|[**Ruolo Periti - consap.it**](http://ruoloperiti.consap.it/web/M/Ricerca)|[**Consiglio Nazionale dell'Ordine degli Psicologi**](https://areariservata.psy.it/cgi-bin/areariservata/albo_nazionale.cgi)|[**Albo Segretari Nazionali**](https://albosegretari.interno.gov.it/SearchSegretario)|[OAM - Organismo Agenti Mediatori](https://www.organismo-am.it/)|
 
 
 # Italia
@@ -134,4 +134,3 @@ di cui sia venuto a conoscenza in ragione del rapporto di lavoro,
 | :---: |
 |[**IVASS** - Comunicati e segnalazioni di siti e Polizze Contrafatti](https://www.ivass.it/media/comunicati/)|
 |[ELENCO AVVISI IMPRESE NON AUTORIZZATE O NON ABILITATE.pdf](https://github.com/CScorza/CORPINT-Corporate-Intelligence/files/10001461/ELENCO_AVVISI_IMPRESE_NON_AUTORIZZATE_O_NON_ABILITATE.pdf)|
-
