@@ -31,7 +31,6 @@ dirigenti e manager nel processo decisionale strategico per un'organizzazione.
 
 |[**Sanctions-intelligence.com**](https://www.sanctions-intelligence.com/about/)|[**OpenSanctions**](https://www.opensanctions.org/)|
 | :---: | :---: |
-
 # Indagini Patrimoniali
 ```
 Le indagini patrimoniale consistono in attività di ricerca e 
