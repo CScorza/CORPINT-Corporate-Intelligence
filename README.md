@@ -33,19 +33,35 @@ dirigenti e manager nel processo decisionale strategico per un'organizzazione.
 | :---: | :---: |
 # Indagini Patrimoniali
 ```
-Le indagini patrimoniale consistono in attività di ricerca e 
-analisi di dari volte a far emergere in capo ai soggetti indagati la presenza di beni mobili e immboli,
-redditi e flussi di entrata di capitale o altre utilità
+Le indagini patrimoniali sono le attività di investigazione svolte su un soggetto persona fisica o giuridica.
 ```
 
 **ALBO PROFESSIONALE**
-|**Architetti**|**Assistenti Sociali**|**Avvocati**|**Commercialisti ed esperti contabili**|**Farmacisti**|
+
+![Professioni](https://user-images.githubusercontent.com/98583912/209233786-36c19af3-278e-4934-a450-e85346f2c57a.gif)
+
+[**Albo Nazionale Professionisti**](https://www.albonazionaleprofessionisti.it/)
+
+**A cosa serve l'iscrizione all'albo?**
+```
+Essere iscritti all'albo vuol dire essere legittimati dalla legge a svolgere una determinata professione. 
+La mancata iscrizione all'albo configura il reato di esercizio abusivo della professione. 
+Per potersi iscrivere bisogna allegare alcuni documenti.
+```
+
+|**Architetti**|**Avvocati**|**Commercialisti ed esperti contabili**|
+| :---: | :---: | :---: | 
+|[**CNAPPC**](http://www.cnappc.it/default.aspx)|[**Consiglio Nazionale Forense**](https://www.consiglionazionaleforense.it/ricerca-avvocati)|[**Commercialisti**](https://commercialisti.it/iscritti)|
+|**Giornalisti**|**Ingegneri**|**Notai**|
+[**Consiglio Nazionale Ingegneri**](https://www.cni.it/albo-unico)|[**FNOMCeO**](https://portale.fnomceo.it/cerca-prof/)|[**Consiglio Nazionale del Notariato**](https://www.notariato.it/it/trova-notaio)
+|**Periti assicurativi**|**Segretari Comunali**|**Agenti Mediatori**|
+|[**Ruolo Periti - consap.it**](http://ruoloperiti.consap.it/web/M/Ricerca)|[**Albo Segretari Nazionali**](https://albosegretari.interno.gov.it/SearchSegretario)|[**OAM - Organismo Agenti Mediatori**](https://www.organismo-am.it/)|
+
+**Albo Professioni Sanitarie**
+
+|**Assistenti Sociali**|**Farmacisti**|**Psicologi**|**Federazione Nazionale Ordini dei Medici Chirurghi e Odontoiatri d'Italia**|**Infermieri**
 | :---: | :---: | :---: | :---: | :---: |
-|[**CNAPPC**](http://www.cnappc.it/default.aspx)|[**CNOAS**](https://www.cnoas.info/cgi-bin/cnoas/albo_nazionale.cgi)|[**Consiglio Nazionale Forense**](https://www.consiglionazionaleforense.it/ricerca-avvocati)|[**Commercialisti**](https://commercialisti.it/iscritti)|[**Farmacisti**](https://www.intranet-fofi.it/SitoFOFI/AlboUnicoNazionale.aspx)|
-|**Giornalisti**|**Infermieri**|**Ingegneri**|**Medici e dei chirurghi e degli Odontoiatri**|**Notaio**|
-|[**Ordine Dei Giornalisti**](https://www.odg.it/elenco-iscritti)|[**FNOPI**](https://www.fnopi.it/gli-ordini-provinciali/ricerca-albo/)|[**Consiglio Nazionale Ingegneri**](https://www.cni.it/albo-unico)|[**FNOMCeO**](https://portale.fnomceo.it/cerca-prof/)|[**Consiglio Nazionale del Notariato**](https://www.notariato.it/it/trova-notaio)|
-|**Periti assicurativi**|**Psicologi**|**Segretari Comunali**|**AGENTI MEDIATORI**|
-|[**Ruolo Periti - consap.it**](http://ruoloperiti.consap.it/web/M/Ricerca)|[**Consiglio Nazionale dell'Ordine degli Psicologi**](https://areariservata.psy.it/cgi-bin/areariservata/albo_nazionale.cgi)|[**Albo Segretari Nazionali**](https://albosegretari.interno.gov.it/SearchSegretario)|[OAM - Organismo Agenti Mediatori](https://www.organismo-am.it/)|
+|[**CNOAS**](https://www.cnoas.info/cgi-bin/cnoas/albo_nazionale.cgi)|[**Farmacisti**](https://www.intranet-fofi.it/SitoFOFI/AlboUnicoNazionale.aspx)|[**Consiglio Nazionale dell'Ordine degli Psicologi**](https://areariservata.psy.it/cgi-bin/areariservata/albo_nazionale.cgi)|[**FNOMCEO**](https://portale.fnomceo.it/cerca-prof/)|[**FNOPI**](https://www.fnopi.it/gli-ordini-provinciali/ricerca-albo/)|
 
 
 # Italia
@@ -67,7 +83,7 @@ Tramite la camera del commercio è possibile ricavare()
 
 |[**Verifica Codice Fiscale**](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)|[**Verifica della partita Iva**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-della-partita-iva)|[**Controllo delle partite Iva comunitarie**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-delle-partite-iva-comunitarie)|[**Controllo Contrassegni telematici**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-contrassegni-telematici)|[**Ricerca del codice identificativo dei contratti di locazione**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-del-codice-identificativo-dei-contratti-di-locazione)|
 | :---: | :---: | :---: |:---: | :---: |
-|[**Ricerca professionisti abilitati all'apposizione del visto di conformità**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-professionisti-abilitati-all-apposizione-del-visto-di-conformit%C3%A0)|[**Verifica dei documenti con "glifo" inviati dall'Agenzia**](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-documenti-glifo-da-agenzia)|[Verifica dei documenti con firma digitale inviati dall'Agenzia](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-della-firma-digitale-da-agenzia)|**[Verifica dichiarazione nautica**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-dichiarazione-nautica)|[**Verifica ricevuta dichiarazione di intento**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-ricevuta-dichiarazione-di-intento)|
+|[**Ricerca professionisti abilitati all'apposizione del visto di conformità**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-professionisti-abilitati-all-apposizione-del-visto-di-conformit%C3%A0)|[**Verifica dei documenti con "glifo" inviati dall'Agenzia**](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-documenti-glifo-da-agenzia)|[**Verifica dei documenti con firma digitale inviati dall'Agenzia**](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-della-firma-digitale-da-agenzia)|[**Verifica dichiarazione nautica**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-dichiarazione-nautica)|[**Verifica ricevuta dichiarazione di intento**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-ricevuta-dichiarazione-di-intento)|
 
 ![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 
