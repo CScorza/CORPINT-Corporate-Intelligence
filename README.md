@@ -1,4 +1,4 @@
-![Titolo](https://user-images.githubusercontent.com/98583912/199370645-c7413e35-f793-4537-81ed-cdb85ce02ead.gif)
+![Titolo](https://user-images.githubusercontent.com/98583912/210837384-b03fa6e3-a45e-4f96-ae26-7487e07fcb54.gif)
 
 ||[**ANALISI DEL MERCATO LIVE**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#analisi-di-mercato-live)
 | :---: | :--- |
