@@ -1,5 +1,8 @@
 ![Titolo](https://user-images.githubusercontent.com/98583912/210837384-b03fa6e3-a45e-4f96-ae26-7487e07fcb54.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
+
 ||[**ANALISI DEL MERCATO LIVE**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#analisi-di-mercato-live)
 | :---: | :--- |
 ||[**INDAGINI PATRIMONIALI**](https://github.com/CScorza/CORPINT-Corporate-Intelligence#indagini-patrimoniali)|
