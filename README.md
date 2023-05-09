@@ -146,6 +146,27 @@ di cui sia venuto a conoscenza in ragione del rapporto di lavoro,
 | :---: | :---: |
 |[**Github - leakScraper**](https://github.com/Acceis/leakScraper/wiki/leakScraper)|[**Violation Tracker**](https://violationtracker.goodjobsfirst.org/)|
 
+### Strumenti Anti truffa
+
+**Strumenti Bancari**
+![Immagine1](https://user-images.githubusercontent.com/98583912/233977148-806f8b3c-5d12-4f20-acf8-8aec0d5fe29a.gif)
+```
+- 2 Lettere rappresentano il Paese
+- 2 cifre di controllo, ossia il CIN EURO
+- Il Codice BBAN Nazionale (CIN + ABI + CAB + Numero di Controllo)
+Glorssario
+ABI = Assiciazione Bancaria Italiana
+CAB = Codice di Avviamento Bancanrio
+```
+|**IBAN**|**Conto Corrente**|**Codice Banca**|**Controllo Numero BIN**|
+| :---: | :---: | :---: | :---: |
+|[**Verifica IBAN**](https://it.ibancalculator.com/iban_validieren.html)|[**Verifica un conto corrente**](https://it.ibancalculator.com/validate_account_no.html)|[**Ricerca un codice banca o BIC**](https://it.ibancalculator.com/blz.html)|[**Free BIN Checker**](https://www.freebinchecker.com/amp?hl=it)
+
+**Money Transfer**
+```
+MTCN
+```
+
 **AntiTruffa**
 
 ![marchio-IVASS-white-small](https://user-images.githubusercontent.com/98583912/201621700-4e779ac2-a992-4311-9f0e-b20251cbe947.png)
