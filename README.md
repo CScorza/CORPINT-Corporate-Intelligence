@@ -91,6 +91,7 @@ Tramite la camera del commercio è possibile ricavare()
 ![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 
 ![logo-anpr](https://github.com/CScorza/CORPINT-Corporate-Intelligence/assets/98583912/99ddd3f5-3523-47d5-9a10-22abc32bae75)
+
 [**ANPR - Anagrafica Nazionale Popolazione Residente](https://www.anagrafenazionale.interno.it/)
 ```
 All'interno è possibile scaricare i certificati anagrafici online in maniera autonoma e gratuita, 
@@ -172,6 +173,7 @@ di cui sia venuto a conoscenza in ragione del rapporto di lavoro,
 ### Strumenti Anti truffa
 
 **Strumenti Bancari**
+
 ![Immagine1](https://user-images.githubusercontent.com/98583912/233977148-806f8b3c-5d12-4f20-acf8-8aec0d5fe29a.gif)
 ```
 - 2 Lettere rappresentano il Paese
@@ -181,6 +183,7 @@ Glorssario
 ABI = Assiciazione Bancaria Italiana
 CAB = Codice di Avviamento Bancanrio
 ```
+
 |**IBAN**|**Conto Corrente**|**Codice Banca**|**Controllo Numero BIN**|
 | :---: | :---: | :---: | :---: |
 |[**Verifica IBAN**](https://it.ibancalculator.com/iban_validieren.html)|[**Verifica un conto corrente**](https://it.ibancalculator.com/validate_account_no.html)|[**Ricerca un codice banca o BIC**](https://it.ibancalculator.com/blz.html)|[**Free BIN Checker**](https://www.freebinchecker.com/amp?hl=it)
