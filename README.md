@@ -190,8 +190,12 @@ CAB = Codice di Avviamento Bancanrio
 
 **Money Transfer**
 ```
-MTCN
+Il "Money Transfer" è un servizio che permette di trasferire denaro da un luogo all'altro, 
+di solito attraverso intermediari finanziari come banche, società di trasferimento di denaro, uffici postali o servizi online.
 ```
+|[**Open Bank Project**](https://www.openbankproject.com/)|**Una piattaforma che offre un accesso sicuro e regolamentato ai dati bancari, che può essere utilizzata per verificare la validità di un conto bancario o di una transazione di trasferimento di denaro.**|
+| :---: | :---: |
+|[**Global Financial Integrity (GFI)**](https://gfintegrity.org/)|**Un'organizzazione che si occupa della prevenzione della fuga di capitali e della lotta contro il riciclaggio di denaro a livello globale. Il sito web dell'organizzazione offre una vasta gamma di informazioni e strumenti per la verifica della legittimità delle transazioni finanziarie.**|
 
 **AntiTruffa**
 
