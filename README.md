@@ -90,6 +90,29 @@ Tramite la camera del commercio è possibile ricavare()
 
 ![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 
+![logo-anpr](https://github.com/CScorza/CORPINT-Corporate-Intelligence/assets/98583912/99ddd3f5-3523-47d5-9a10-22abc32bae75)
+[**ANPR - Anagrafica Nazionale Popolazione Residente](https://www.anagrafenazionale.interno.it/)
+```
+All'interno è possibile scaricare i certificati anagrafici online in maniera autonoma e gratuita, 
+per proprio conto o terzi tramite delega. 
+Potranno essere scaricati, anche in forma contestuale, i seguenti certificati: 
+● Anagrafico di nascita
+● Anagrafico di matrimonio
+● di Cittadinanza
+● di Esistenza in vita
+● di Residenza
+● di Residenza AIRE
+● di Stato civile
+● di Stato di famiglia
+● di Stato di famiglia e di stato civile
+● di Residenza in convivenza
+● di Stato di famiglia AIRE
+● di Stato di famiglia con rapporti di parentela
+● di Stato Libero
+● Anagrafico di Unione Civile
+● di Contratto di Convivenza
+```
+
 **Trova indirizzi email di aziende e professionisti**
 |[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
 | :---: | :---: | :---: | :---: |
