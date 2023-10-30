@@ -86,17 +86,18 @@ Tramite la camera del commercio è possibile ricavare()
 | :---: | :---: | :---: |
 
 [**Agenzia dell'Entrate**](https://www.agenziaentrate.gov.it/portale/)
+
+![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
 <p align="center">Attraverso il sito è possibile verificare</p>
 
 |[**Verifica Codice Fiscale**](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)|[**Verifica della partita Iva**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-della-partita-iva)|[**Controllo delle partite Iva comunitarie**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-delle-partite-iva-comunitarie)|[**Controllo Contrassegni telematici**](https://www.agenziaentrate.gov.it/portale/web/guest/controllo-contrassegni-telematici)|[**Ricerca del codice identificativo dei contratti di locazione**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-del-codice-identificativo-dei-contratti-di-locazione)|
 | :---: | :---: | :---: |:---: | :---: |
 |[**Ricerca professionisti abilitati all'apposizione del visto di conformità**](https://www.agenziaentrate.gov.it/portale/web/guest/ricerca-professionisti-abilitati-all-apposizione-del-visto-di-conformit%C3%A0)|[**Verifica dei documenti con "glifo" inviati dall'Agenzia**](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-documenti-glifo-da-agenzia)|[**Verifica dei documenti con firma digitale inviati dall'Agenzia**](https://www.agenziaentrate.gov.it/portale/web/guest/servizi/servizitrasversali/verifica/verifica-della-firma-digitale-da-agenzia)|[**Verifica dichiarazione nautica**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-dichiarazione-nautica)|[**Verifica ricevuta dichiarazione di intento**](https://www.agenziaentrate.gov.it/portale/web/guest/verifica-ricevuta-dichiarazione-di-intento)|
 
-![layout_set_logo](https://user-images.githubusercontent.com/98583912/196758088-b3171634-33c1-4dc5-8c6f-3dfe7e4a285f.png)
+[**ANPR - Anagrafica Nazionale Popolazione Residente**](https://www.anagrafenazionale.interno.it/)
 
-![logo-anpr](https://github.com/CScorza/CORPINT-Corporate-Intelligence/assets/98583912/99ddd3f5-3523-47d5-9a10-22abc32bae75)
+![anpr](https://github.com/CScorza/CORPINT-Corporate-Intelligence/assets/98583912/212379c5-ab47-4334-ae7f-f35fcf5ee240)
 
-[**ANPR - Anagrafica Nazionale Popolazione Residente](https://www.anagrafenazionale.interno.it/)
 ```
 All'interno è possibile scaricare i certificati anagrafici online in maniera autonoma e gratuita, 
 per proprio conto o terzi tramite delega. 
