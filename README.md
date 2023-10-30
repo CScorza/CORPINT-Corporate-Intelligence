@@ -80,6 +80,10 @@ Tramite la camera del commercio è possibile ricavare()
 - Scheda persona cariche
 - Protesti
 ```
+**Registro delle imprese**
+
+|[**Ministero delle imprese - Registro**](https://www.mimit.gov.it/it/impresa/registro-delle-imprese?layout=ipamise:mise-list)|[**Registro Imprese.it**](https://www.registroimprese.it/)|[**Punto Impresa Digitale**](https://www.puntoimpresadigitale.camcom.it/paginainterna/registro-imprese)|
+| :---: | :---: | :---: |
 
 [**Agenzia dell'Entrate**](https://www.agenziaentrate.gov.it/portale/)
 <p align="center">Attraverso il sito è possibile verificare</p>
