@@ -125,6 +125,17 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 | :---: | :---: | :---: | :---: |
 [**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|||
 
+```
+Questi siti web forniscono informazioni su startup, aziende e investitori in tutto il mondo. 
+I dati raccolti provengono da una varietà di fonti, tra cui interviste, rapporti finanziari, notizie e social media. 
+Queste informazioni possono essere utilizzate per una varietà di scopi, tra cui:
+
+- Ricerca di startup e aziende
+- Analisi di dati finanziari
+- Networking con investitori
+- Ricerca di opportunità di lavoro
+```
+
 ## Europa
 |![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[**Europages**](http://www.europages.co.uk/)|[**E-Justice - businessregisters in member states**](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
 | :---: | :---: | :---: |
