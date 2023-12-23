@@ -33,7 +33,8 @@ dirigenti e manager nel processo decisionale strategico per un'organizzazione.
 **Business Sanction**
 
 |[**Sanctions-intelligence.com**](https://www.sanctions-intelligence.com/about/)|[**OpenSanctions**](https://www.opensanctions.org/)|
-| :---: | :---: |
+| :---: | :---: | 
+
 # Indagini Patrimoniali
 ```
 Le indagini patrimoniali sono le attività di investigazione svolte su un soggetto persona fisica o giuridica.
@@ -122,6 +123,7 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 **Trova indirizzi email di aziende e professionisti**
 |[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
 | :---: | :---: | :---: | :---: |
+[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|||
 
 ## Europa
 |![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[**Europages**](http://www.europages.co.uk/)|[**E-Justice - businessregisters in member states**](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
