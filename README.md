@@ -123,7 +123,7 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 **Trova indirizzi email di aziende e professionisti**
 |[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
 | :---: | :---: | :---: | :---: |
-[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|||
+[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)||
 
 ```
 Questi siti web forniscono informazioni su startup, aziende e investitori in tutto il mondo. 
