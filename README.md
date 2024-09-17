@@ -145,6 +145,9 @@ Queste informazioni possono essere utilizzate per una varietà di scopi, tra cui
 | :---: | :---: | :---: | :---: |
 |[**Scoot Network**](http://www.scoot.co.uk/)|[**CEO email addresses for UK Companies**](https://www.ceoemail.com/)|[**Yell**](https://www.yell.com/)|[**GOV.UK Ricerca nel Registro imprese**](https://find-and-update.company-information.service.gov.uk/)|
 
+**France**
+|![france](https://github.com/user-attachments/assets/d253d8b8-76b2-47e3-af15-6c7192f35637)|[**Societe**](https://www.societe.com/)|
+| :---: | :---: |
 
 **Cypro**
 |![CIPRO](https://user-images.githubusercontent.com/98583912/199543263-70f9ffb5-420a-49e7-b46a-2a454cbddf41.gif)|[**Pubblico Registro Cipriota**](https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?sc=0&lang=EN)|[**Indagini patrimoniali - Terreni**](https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer)|
