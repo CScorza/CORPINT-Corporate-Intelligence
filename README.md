@@ -120,10 +120,16 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 ● di Contratto di Convivenza
 ```
 
-**Trova indirizzi email di aziende e professionisti**
+**Trova indirizzi email di aziende e professionisti - Estensioni Borwsear**
+
 |[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
 | :---: | :---: | :---: | :---: |
-[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)||
+[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)|[**SignalHire**](https://www.signalhire.com/)|
+
+**Add-ONS Google Chrome - Brave - FireFox**
+|![image](https://github.com/user-attachments/assets/c05c98fe-774e-4732-9a2c-3d15a726e3b6)|![image](https://github.com/user-attachments/assets/88b4daf1-9574-4bb3-8e3d-d49af8c18fc3)|![image](https://github.com/user-attachments/assets/38858072-d737-43e4-a825-c46297f529fc)|
+| :---: | :---: | :---: |
+
 
 ```
 Questi siti web forniscono informazioni su startup, aziende e investitori in tutto il mondo. 
@@ -137,7 +143,7 @@ Queste informazioni possono essere utilizzate per una varietà di scopi, tra cui
 ```
 
 ## Europa
-|![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[**Europages**](http://www.europages.co.uk/)|[**E-Justice - businessregisters in member states**](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
+|![EU](https://user-images.githubusercontent.com/98583912/199543152-df291730-6207-46ac-a195-ece15af65d5b.gif)|[**Worldwide Registers**](https://ebra.be/worldwide-registers/)|[**E-Justice - businessregisters in member states**](https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do)|
 | :---: | :---: | :---: |
 
 **UK**
@@ -146,8 +152,8 @@ Queste informazioni possono essere utilizzate per una varietà di scopi, tra cui
 |[**Scoot Network**](http://www.scoot.co.uk/)|[**CEO email addresses for UK Companies**](https://www.ceoemail.com/)|[**Yell**](https://www.yell.com/)|[**GOV.UK Ricerca nel Registro imprese**](https://find-and-update.company-information.service.gov.uk/)|
 
 **France**
-|![france](https://github.com/user-attachments/assets/d253d8b8-76b2-47e3-af15-6c7192f35637)|[**Societe**](https://www.societe.com/)|
-| :---: | :---: |
+|![france](https://github.com/user-attachments/assets/d253d8b8-76b2-47e3-af15-6c7192f35637)|[**Societe**](https://www.societe.com/)|[**Infogreffe**](https://www.infogreffe.fr/)|[**INPI**](https://www.inpi.fr/)|
+| :---: | :---: | :---: | :---: |
 
 **Cypro**
 |![CIPRO](https://user-images.githubusercontent.com/98583912/199543263-70f9ffb5-420a-49e7-b46a-2a454cbddf41.gif)|[**Pubblico Registro Cipriota**](https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?sc=0&lang=EN)|[**Indagini patrimoniali - Terreni**](https://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer)|
