@@ -122,9 +122,9 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 
 **Trova indirizzi email di aziende e professionisti - Estensioni Borwsear**
 
-|[**Skymem - Find email addresses of companies and people**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
-| :---: | :---: | :---: | :---: |
-[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)|[**SignalHire**](https://www.signalhire.com/)|
+|[**Skymem**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
+| :---: | :---: | :---: | :---: | :---: |
+[**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)|[**SignalHire**](https://www.signalhire.com/)|[**Recruitryte**](https://recruitryte.com/)|
 
 **Add-ONS Google Chrome - Brave - FireFox**
 |![image](https://github.com/user-attachments/assets/c05c98fe-774e-4732-9a2c-3d15a726e3b6)|![image](https://github.com/user-attachments/assets/88b4daf1-9574-4bb3-8e3d-d49af8c18fc3)|![image](https://github.com/user-attachments/assets/38858072-d737-43e4-a825-c46297f529fc)|
