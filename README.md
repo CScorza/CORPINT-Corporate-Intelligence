@@ -122,7 +122,7 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 
 **Trova indirizzi email di aziende e professionisti - Estensioni Borwsear**
 
-|[**Skymem**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|
+|[**Skymem**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)||
 | :---: | :---: | :---: | :---: | :---: |
 [**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)|[**SignalHire**](https://www.signalhire.com/)|[**Recruitryte**](https://recruitryte.com/)|
 
