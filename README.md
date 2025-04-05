@@ -122,9 +122,10 @@ Potranno essere scaricati, anche in forma contestuale, i seguenti certificati:
 
 **Trova indirizzi email di aziende e professionisti - Estensioni Borwsear**
 
-|[**Skymem**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)||
+|[**Skymem**](http://www.skymem.info/)|[**Kununu**](https://www.kununu.com/)|[**RocketReach**](https://rocketreach.co/)|[**Apollo.io**](https://www.apollo.io/)|[**Hunter.io**](hunter.io)|
 | :---: | :---: | :---: | :---: | :---: |
 [**Crunchbase**](https://www.crunchbase.com/)|[**SalesForce**](https://www.salesforce.com/)|[**littlesis.org**](https://littlesis.org/)|[**SignalHire**](https://www.signalhire.com/)|[**Recruitryte**](https://recruitryte.com/)|
+
 
 **Add-ONS Google Chrome - Brave - FireFox**
 |![image](https://github.com/user-attachments/assets/c05c98fe-774e-4732-9a2c-3d15a726e3b6)|![image](https://github.com/user-attachments/assets/88b4daf1-9574-4bb3-8e3d-d49af8c18fc3)|![image](https://github.com/user-attachments/assets/38858072-d737-43e4-a825-c46297f529fc)|
@@ -214,6 +215,11 @@ CAB = Codice di Avviamento Bancanrio
 |**IBAN**|**Conto Corrente**|**Codice Banca**|**Controllo Numero BIN**|
 | :---: | :---: | :---: | :---: |
 |[**Verifica IBAN**](https://it.ibancalculator.com/iban_validieren.html)|[**Verifica un conto corrente**](https://it.ibancalculator.com/validate_account_no.html)|[**Ricerca un codice banca o BIC**](https://it.ibancalculator.com/blz.html)|[**Free BIN Checker**](https://www.freebinchecker.com/amp?hl=it)
+
+**Ricerca Account**
+|![download](https://github.com/user-attachments/assets/0b499a0b-d504-4763-92cc-10cccbbd6887)|[**PayPal - Email Recovery**](https://www.paypal.com/authflow/email-recovery)|
+| :---: | :---: |
+|![images](https://github.com/user-attachments/assets/9847f51d-1725-4bc8-aeb4-a9ef32f46310)|[Revolut - USERNAME](https://revolut.me/api/web-profile/USERNAME)|
 
 **Money Transfer**
 ```
