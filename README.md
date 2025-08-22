@@ -176,6 +176,7 @@ Queste informazioni possono essere utilizzate per una varietà di scopi, tra cui
 |[**CrunchBase**](https://www.crunchbase.com/)|[**Ezilon**](http://www.ezilon.com/)|[**Monitoraggio Aziende**](https://www.owler.com/)|
 |[**OpenCorporates**](https://opencorporates.com/)|[**GitHub - Nephylem/OpenCorporates**](https://github.com/Nephylem/OpenCorporates)|[**Accuranker**](https://www.accuranker.com/)|[**Serpstat**](https://serpstat.com/)|
 |[**Relationship Science Database**](https://relationshipscience.com/)|[**Overseas Company Registers**](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)|[**SpyFu**](http://www.spyfu.com/)|
+|[**Explee**](https://explee.com/)||
 
 **USA**
 |![USA](https://user-images.githubusercontent.com/98583912/199543550-4b378fba-38ef-494e-8bb5-a388df545029.gif)|[**Elenco ISP - Per notifiche giudiziarie**](https://www.search.org/resources/isp-list/)|[**Dati No-Profit più completi e aggiornati**](http://www.guidestar.org/)|
